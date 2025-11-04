@@ -1,0 +1,54 @@
+https://vercel.com/login?next=%2Fdashboard
+https://dash.cloudflare.com/login
+https://www.notion.so/zh-cn
+https://mirrors.tuna.tsinghua.edu.cn/
+https://developer.aliyun.com/mirror/
+https://telegram.org/
+https://github.com/mqyqingfeng/Blog
+https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn
+https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn
+https://vue3.chengpeiquan.com/guide.html#%E4%BA%86%E8%A7%A3-package-json
+
+
+
+自己网址
+
+1. (中、英)PDF论文复制后多行合并 | [learnCS.cn-(中、英)PDF论文复制后多行合并](https://learncs.cn/tools/pdf)
+2. 视频解析网址 |  [BL解析-Vip视频在线解析 (bljiex.cc)](https://svip.bljiex.cc/)
+3. thinkphp | [ThinkPHP框架 | 中文最佳实践PHP开源框架,专注WEB应用快速开发8年！](https://www.thinkphp.cn/)
+4. api调用  | [图书电商数据 · ThinkAPI 统一API调用服务 · 看云 (topthink.com)](https://docs.topthink.com/think-api/1901304)
+5. vue导入excel [(11条消息) Vue实现excel导入_北极星在南极*的博客-CSDN博客_vue导入excel](https://blog.csdn.net/m0_72162951/article/details/125365696)
+6. 类似于 Echars 的图表文件    [AntV | 蚂蚁数据可视化](https://antv.vision/zh/)
+7. 配合下面这个一起使用     [LimeUi - 多端uniapp组件库 (gitee.io)](http://liangei.gitee.io/limeui/#/f2-example)
+8. vuepress 搭建一个博客、、[博客人生 (noisesite.cn)](https://www.noisesite.cn/8ba0f2ea-7ae8-4885-9ac4-9099086848c4)
+9. 他人书签  [我的书签 (it-cxy.top)](https://it-cxy.top/)
+10. CSS代码案例 直接就可以使用 [loading | CSS Tricks (qishaoxuan.github.io)](https://qishaoxuan.github.io/css_tricks/loading/#loading)
+11. css加载动画案例，直接就可以使用 [SpinKit | Simple CSS Spinners (tobiasahlin.com)](https://tobiasahlin.com/spinkit/)
+12. 前端进阶基础导航多个版本，建议没事观看[基础篇 | 前端进阶之旅 (poetries.top)](https://interview2.poetries.top/docs/base.html#_31-css样式-选择器-的优先级)
+13. 每次刷新都可以获得一个新的头像 [Random Users - Generate random user profile pictures and names (xsgames.co)](https://xsgames.co/randomusers/)
+14. 字数统计  https://eteste.com/
+15. uniapp图标库 [LimeUi - 多端uniapp组件库 (gitee.io)](http://liangei.gitee.io/limeui/#/f2-example)
+16. 在线json解析和格式化验证 [JSON在线解析及格式化验证 - JSON.cn](https://www.json.cn/)
+17. vue插件大全 [(11条消息) vue插件大全汇总，你要的都这里，赶紧收藏下！_老汤前端博客的博客-CSDN博客_vue插件](https://blog.csdn.net/qq_25838839/article/details/84613644)
+18. Html  转 Markdown  [HelloWorld - 专业开发者社区](https://www.helloworld.net/html2md)
+19. Markdown 转 html [Markdown 表格 转换为 HTML 表格 - 在线表格转换工具 (tableconvert.com)](https://tableconvert.com/zh-CN/markdown-to-html)
+20. 今天吃什么  [今天吃什么？ (xxgeek.com)](https://t.xxgeek.com/tools/eatsm/)
+21. 朋友圈转发生成器  [朋友圈转发截图生成工具 | 即刻工具箱 (ijkxs.com)](https://tools.ijkxs.com/tools/wxpyqjtsc)
+22. 九宫格切图 [免费 九宫格切图 - 在线工具网 - 工作生活好帮手 (zxgj.cn)](https://www.zxgj.cn/g/jiugongge)
+
+
+
+
+
+>  可以使用书签导出为index 然后用html转为Markdown 然后用Markdown转为我们正常的html 来更改样式
+
+
+
+
+
+
+
+
+
+
+​    <img src="https://xsgames.co/randomusers/avatar.php?g=male">
