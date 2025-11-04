@@ -1,16 +1,3 @@
-import comp from "/Users/guoguo/code/my-project/guoguo-notes-v2/docs/.vuepress/.temp/pages/article/6c2xodlt/index.html.vue"
-const data = JSON.parse("{\"path\":\"/article/6c2xodlt/\",\"title\":\"idea 插件\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"idea 插件\",\"date\":\"2023-5-21\",\"tags\":[\"idea\",\"插件\"],\"categories\":[\"自学篇\"],\"createTime\":\"2025/08/24 00:25:17\",\"permalink\":\"/article/6c2xodlt/\"},\"readingTime\":{\"minutes\":0.1,\"words\":29},\"git\":{},\"filePathRelative\":\"Java/idea 插件.md\",\"headers\":[],\"categoryList\":[{\"id\":\"d52387\",\"sort\":10000,\"name\":\"Java\"}]}")
+import comp from "/Users/guoguo/code/my-project/guoguo-notes-v2/docs-vuepress/.vuepress/.temp/pages/article/6c2xodlt/index.html.vue"
+const data = JSON.parse("{\"path\":\"/article/6c2xodlt/\",\"title\":\"idea 插件\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"idea 插件\",\"date\":\"2023-5-21\",\"tags\":[\"idea\",\"插件\"],\"categories\":[\"自学篇\"],\"createTime\":\"2025/08/24 00:25:17\",\"permalink\":\"/article/6c2xodlt/\"},\"readingTime\":{\"minutes\":0.1,\"words\":29},\"git\":{\"createdTime\":1762223206000,\"updatedTime\":1762223792000,\"contributors\":[{\"name\":\"袁果锅\",\"username\":\"\",\"email\":\"2914310412@qq.com\",\"commits\":2,\"avatar\":\"https://gravatar.com/avatar/ebb36e92893d0bad96657e83c4e1e8be47c5ebe9e1f87275acd48573e4759004?d=retro\"}]},\"filePathRelative\":\"Java/idea 插件.md\",\"headers\":[],\"categoryList\":[{\"id\":\"d52387\",\"sort\":10012,\"name\":\"Java\"}]}")
 export { comp, data }
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}

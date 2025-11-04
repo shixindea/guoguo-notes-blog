@@ -1,16 +1,3 @@
-import comp from "/Users/guoguo/code/my-project/guoguo-notes-v2/docs/.vuepress/.temp/pages/article/s2aqqq0l/index.html.vue"
-const data = JSON.parse("{\"path\":\"/article/s2aqqq0l/\",\"title\":\"uniapp笔记\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"uniapp笔记\",\"createTime\":\"2025/08/24 00:25:17\",\"permalink\":\"/article/s2aqqq0l/\"},\"readingTime\":{\"minutes\":0.52,\"words\":156},\"git\":{},\"filePathRelative\":\"vue笔记及周边生态/uniapp笔记.md\",\"headers\":[],\"categoryList\":[{\"id\":\"fa4ad0\",\"sort\":10006,\"name\":\"vue笔记及周边生态\"}]}")
+import comp from "/Users/guoguo/code/my-project/guoguo-notes-v2/docs-vuepress/.vuepress/.temp/pages/article/s2aqqq0l/index.html.vue"
+const data = JSON.parse("{\"path\":\"/article/s2aqqq0l/\",\"title\":\"uniapp笔记\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"uniapp笔记\",\"createTime\":\"2025/08/24 00:25:17\",\"permalink\":\"/article/s2aqqq0l/\"},\"readingTime\":{\"minutes\":0.52,\"words\":156},\"git\":{\"createdTime\":1762223206000,\"updatedTime\":1762223792000,\"contributors\":[{\"name\":\"袁果锅\",\"username\":\"\",\"email\":\"2914310412@qq.com\",\"commits\":2,\"avatar\":\"https://gravatar.com/avatar/ebb36e92893d0bad96657e83c4e1e8be47c5ebe9e1f87275acd48573e4759004?d=retro\"}]},\"filePathRelative\":\"vue笔记及周边生态/uniapp笔记.md\",\"headers\":[],\"categoryList\":[{\"id\":\"fa4ad0\",\"sort\":10008,\"name\":\"vue笔记及周边生态\"}]}")
 export { comp, data }
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}

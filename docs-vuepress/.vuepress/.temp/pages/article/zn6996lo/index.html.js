@@ -1,16 +1,3 @@
-import comp from "/Users/guoguo/code/my-project/guoguo-notes-v2/docs/.vuepress/.temp/pages/article/zn6996lo/index.html.vue"
-const data = JSON.parse("{\"path\":\"/article/zn6996lo/\",\"title\":\"ES6笔记\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"ES6笔记\",\"date\":\"2022-08-04T00:00:00.000Z\",\"tags\":[\"ES6\"],\"categories\":[\"飞码篇\"],\"createTime\":\"2025/08/24 00:25:16\",\"permalink\":\"/article/zn6996lo/\"},\"readingTime\":{\"minutes\":1.38,\"words\":415},\"git\":{},\"filePathRelative\":\"飞码篇/ES6.md\",\"headers\":[],\"categoryList\":[{\"id\":\"e89e1a\",\"sort\":10010,\"name\":\"飞码篇\"}]}")
+import comp from "/Users/guoguo/code/my-project/guoguo-notes-v2/docs-vuepress/.vuepress/.temp/pages/article/zn6996lo/index.html.vue"
+const data = JSON.parse("{\"path\":\"/article/zn6996lo/\",\"title\":\"ES6笔记\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"ES6笔记\",\"date\":\"2022-08-04T00:00:00.000Z\",\"tags\":[\"ES6\"],\"categories\":[\"飞码篇\"],\"createTime\":\"2025/08/24 00:25:16\",\"permalink\":\"/article/zn6996lo/\"},\"readingTime\":{\"minutes\":1.38,\"words\":415},\"git\":{\"createdTime\":1762223206000,\"updatedTime\":1762223792000,\"contributors\":[{\"name\":\"袁果锅\",\"username\":\"\",\"email\":\"2914310412@qq.com\",\"commits\":2,\"avatar\":\"https://gravatar.com/avatar/ebb36e92893d0bad96657e83c4e1e8be47c5ebe9e1f87275acd48573e4759004?d=retro\"}]},\"filePathRelative\":\"飞码篇/ES6.md\",\"headers\":[],\"categoryList\":[{\"id\":\"e89e1a\",\"sort\":10005,\"name\":\"飞码篇\"}]}")
 export { comp, data }
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}

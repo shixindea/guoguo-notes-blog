@@ -1,15 +1,2 @@
 import './articleTagColors.css'
-export const articleTagColors = {"Java":"8287","AjaxResult":"x6x2","入门":"x6x2","注解":"jpgy","Mysql":"ampo","Mybatis":"r1av","语法":"pwpf","springboot":"rr79","笔记":"s73e","idea":"9jfr","插件":"o5k8","快捷键":"ampo","代码片段":"9s3r","React":"r1av","案例":"9jfr","React-router":"u1cq","React-ui":"s73e","redux":"o5k8","预览":"o5k8","组件":"pwpf","markdown":"u1cq","vue3.0":"kq3g","Element Plus":"dw91","Vue":"o5k8","vue":"o5k8","全局封装":"ampo","全局":"9s3r","封装":"o5k8","Vue3.0":"kq3g","下载":"o5k8","Excel下载":"b9ad","vxe-table":"8287","汇智腾远":"b9ad","视频播放":"jbyh","CSS":"r1av","ecahrts":"ampo","git":"jbyh","TypeScript":"kq3g","axios":"ampo","Javascript":"jpgy","npm":"9jfr","上传自己的npm包":"x6x2","云开发":"x6l9","腾讯云":"o5k8","公共":"r1av","API":"ampo","服务器":"o5k8","pxtorem":"lo3e","浏览器适配":"o5k8","登录":"pwpf","配色":"kq3g","跨域":"jpgy","common.scss":"r1av","SCSS":"o5k8","ES6":"jbyh","时间":"9s3r","uniapp":"r1av","vueX":"dw91","JavaScript":"jpgy","uView":"s73e","正则":"pwpf","界面":"8287","逻辑":"s73e","element-ui":"r1av","电子签名":"dw91"}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updateArticleTagColors) {
-    __VUE_HMR_RUNTIME__.updateArticleTagColors(articleTagColors)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ articleTagColors }) => {
-    __VUE_HMR_RUNTIME__.updateArticleTagColors(articleTagColors)
-  })
-}
+export const articleTagColors = {"Java":"7s75","AjaxResult":"zi4e","入门":"zi4e","注解":"lr7l","Mysql":"6kgq","Mybatis":"z3ym","语法":"osae","springboot":"iwsc","笔记":"jtly","idea":"0cbw","插件":"d5qe","快捷键":"6kgq","代码片段":"tzz4","React":"z3ym","案例":"0cbw","React-router":"23wp","React-ui":"jtly","redux":"d5qe","预览":"d5qe","组件":"osae","markdown":"23wp","vue3.0":"purr","Element Plus":"r3dp","Vue":"d5qe","vue":"d5qe","全局封装":"6kgq","全局":"tzz4","封装":"d5qe","Vue3.0":"purr","下载":"d5qe","Excel下载":"oq8m","vxe-table":"7s75","汇智腾远":"oq8m","视频播放":"a2fp","CSS":"z3ym","ecahrts":"6kgq","git":"a2fp","TypeScript":"purr","axios":"6kgq","Javascript":"lr7l","npm":"0cbw","上传自己的npm包":"zi4e","云开发":"evx4","腾讯云":"d5qe","公共":"z3ym","API":"6kgq","服务器":"d5qe","pxtorem":"ow5d","浏览器适配":"d5qe","登录":"osae","配色":"purr","跨域":"lr7l","common.scss":"z3ym","SCSS":"d5qe","ES6":"a2fp","时间":"tzz4","uniapp":"z3ym","vueX":"r3dp","JavaScript":"lr7l","uView":"jtly","正则":"osae","界面":"7s75","逻辑":"jtly","element-ui":"z3ym","电子签名":"r3dp"}

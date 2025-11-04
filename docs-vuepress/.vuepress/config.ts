@@ -7,21 +7,29 @@
  * 部分配置项的更新没有必要重启 vuepress 服务，建议请在 `.vuepress/config.ts` 文件中配置
  *
  * 特别的，请不要在两个配置文件中重复配置相同的项，当前文件的配置项会被覆盖
+ *
+ * @format
  */
 
-import { viteBundler } from '@vuepress/bundler-vite'
-import { defineUserConfig } from 'vuepress'
-import { plumeTheme } from 'vuepress-theme-plume'
+import { viteBundler } from '@vuepress/bundler-vite';
+import { defineUserConfig } from 'vuepress';
+import { plumeTheme } from 'vuepress-theme-plume';
 
 export default defineUserConfig({
-  base: '/',
   lang: 'zh-CN',
-  title: 'guoguo-notes',
+  title: 'guoguo-notes-blog',
   description: '',
-
+  base: '/guoguo-notes-blog/',
   head: [
     // 配置站点图标
-    ['link', { rel: 'icon', type: 'image/png', href: 'https://theme-plume.vuejs.press/favicon-32x32.png' }],
+    [
+      'link',
+      {
+        rel: 'icon',
+        type: 'image/png',
+        href: 'https://aliyxd.oss-cn-beijing.aliyuncs.com/logo-C3kglBc_.png',
+      },
+    ],
   ],
 
   bundler: viteBundler(),
@@ -104,9 +112,9 @@ export default defineUserConfig({
     // readingTime: true,
 
     /**
-      * markdown
-      * @see https://theme-plume.vuejs.press/config/markdown/
-      */
+     * markdown
+     * @see https://theme-plume.vuejs.press/config/markdown/
+     */
     // markdown: {
     //   abbr: true,         // 启用 abbr 语法  *[label]: content
     //   annotation: true,   // 启用 annotation 语法  [+label]: content
@@ -182,4 +190,4 @@ export default defineUserConfig({
      */
     // encrypt: {},
   }),
-})
+});

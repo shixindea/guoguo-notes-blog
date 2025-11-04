@@ -1,16 +1,3 @@
-import comp from "/Users/guoguo/code/my-project/guoguo-notes-v2/docs/.vuepress/.temp/pages/article/j4mws1kk/index.html.vue"
-const data = JSON.parse("{\"path\":\"/article/j4mws1kk/\",\"title\":\"CSS 笔记\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"CSS 笔记\",\"date\":\"2024-8-4\",\"tags\":[\"CSS\",\"笔记\"],\"categories\":[\"自学篇\"],\"secret\":true,\"passwd\":1233211234567,\"createTime\":\"2025/08/24 00:25:16\",\"permalink\":\"/article/j4mws1kk/\"},\"readingTime\":{\"minutes\":0.87,\"words\":260},\"git\":{},\"filePathRelative\":\"常用笔记/CSS笔记.md\",\"headers\":[],\"categoryList\":[{\"id\":\"76d4da\",\"sort\":10007,\"name\":\"常用笔记\"}]}")
+import comp from "/Users/guoguo/code/my-project/guoguo-notes-v2/docs-vuepress/.vuepress/.temp/pages/article/j4mws1kk/index.html.vue"
+const data = JSON.parse("{\"path\":\"/article/j4mws1kk/\",\"title\":\"CSS 笔记\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"CSS 笔记\",\"date\":\"2024-8-4\",\"tags\":[\"CSS\",\"笔记\"],\"categories\":[\"自学篇\"],\"secret\":true,\"passwd\":1233211234567,\"createTime\":\"2025/08/24 00:25:16\",\"permalink\":\"/article/j4mws1kk/\"},\"readingTime\":{\"minutes\":0.87,\"words\":260},\"git\":{\"createdTime\":1762223206000,\"updatedTime\":1762223792000,\"contributors\":[{\"name\":\"袁果锅\",\"username\":\"\",\"email\":\"2914310412@qq.com\",\"commits\":2,\"avatar\":\"https://gravatar.com/avatar/ebb36e92893d0bad96657e83c4e1e8be47c5ebe9e1f87275acd48573e4759004?d=retro\"}]},\"filePathRelative\":\"常用笔记/CSS笔记.md\",\"headers\":[],\"categoryList\":[{\"id\":\"76d4da\",\"sort\":10003,\"name\":\"常用笔记\"}]}")
 export { comp, data }
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}

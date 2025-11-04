@@ -1,16 +1,3 @@
-import comp from "/Users/guoguo/code/my-project/guoguo-notes-v2/docs/.vuepress/.temp/pages/article/vzutoba4/index.html.vue"
-const data = JSON.parse("{\"path\":\"/article/vzutoba4/\",\"title\":\"跨域代理\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"跨域代理\",\"date\":\"2022-12-29T00:00:00.000Z\",\"tags\":[\"跨域\"],\"categories\":[\"居家篇\"],\"createTime\":\"2025/08/24 00:25:16\",\"permalink\":\"/article/vzutoba4/\"},\"readingTime\":{\"minutes\":2.87,\"words\":861},\"git\":{},\"filePathRelative\":\"常用笔记/跨域代理.md\",\"headers\":[],\"categoryList\":[{\"id\":\"76d4da\",\"sort\":10007,\"name\":\"常用笔记\"}]}")
+import comp from "/Users/guoguo/code/my-project/guoguo-notes-v2/docs-vuepress/.vuepress/.temp/pages/article/vzutoba4/index.html.vue"
+const data = JSON.parse("{\"path\":\"/article/vzutoba4/\",\"title\":\"跨域代理\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"跨域代理\",\"date\":\"2022-12-29T00:00:00.000Z\",\"tags\":[\"跨域\"],\"categories\":[\"居家篇\"],\"createTime\":\"2025/08/24 00:25:16\",\"permalink\":\"/article/vzutoba4/\"},\"readingTime\":{\"minutes\":2.87,\"words\":861},\"git\":{\"createdTime\":1762223206000,\"updatedTime\":1762223792000,\"contributors\":[{\"name\":\"袁果锅\",\"username\":\"\",\"email\":\"2914310412@qq.com\",\"commits\":2,\"avatar\":\"https://gravatar.com/avatar/ebb36e92893d0bad96657e83c4e1e8be47c5ebe9e1f87275acd48573e4759004?d=retro\"}]},\"filePathRelative\":\"常用笔记/跨域代理.md\",\"headers\":[],\"categoryList\":[{\"id\":\"76d4da\",\"sort\":10003,\"name\":\"常用笔记\"}]}")
 export { comp, data }
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}

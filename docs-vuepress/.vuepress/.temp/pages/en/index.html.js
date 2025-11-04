@@ -1,16 +1,3 @@
-import comp from "/Users/guoguo/code/my-project/guoguo-notes-v2/docs/.vuepress/.temp/pages/en/index.html.vue"
-const data = JSON.parse("{\"path\":\"/en/\",\"title\":\"Hello VuePress\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"Hello VuePress\"},\"readingTime\":{\"minutes\":0.09,\"words\":26},\"git\":{},\"filePathRelative\":\"en/README.md\",\"headers\":[],\"categoryList\":[{\"id\":\"9cfefe\",\"sort\":10004,\"name\":\"en\"}]}")
+import comp from "/Users/guoguo/code/my-project/guoguo-notes-v2/docs-vuepress/.vuepress/.temp/pages/en/index.html.vue"
+const data = JSON.parse("{\"path\":\"/en/\",\"title\":\"Hello VuePress\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"Hello VuePress\"},\"readingTime\":{\"minutes\":0.09,\"words\":26},\"git\":{\"createdTime\":1762223206000,\"updatedTime\":1762223792000,\"contributors\":[{\"name\":\"袁果锅\",\"username\":\"\",\"email\":\"2914310412@qq.com\",\"commits\":2,\"avatar\":\"https://gravatar.com/avatar/ebb36e92893d0bad96657e83c4e1e8be47c5ebe9e1f87275acd48573e4759004?d=retro\"}]},\"filePathRelative\":\"en/README.md\",\"headers\":[],\"categoryList\":[{\"id\":\"9cfefe\",\"sort\":10007,\"name\":\"en\"}]}")
 export { comp, data }
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}

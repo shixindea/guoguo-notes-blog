@@ -1,16 +1,3 @@
-import comp from "/Users/guoguo/code/my-project/guoguo-notes-v2/docs/.vuepress/.temp/pages/article/ht7luzvh/index.html.vue"
-const data = JSON.parse("{\"path\":\"/article/ht7luzvh/\",\"title\":\"组件封装\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"组件封装\",\"date\":\"2022-08-04T00:00:00.000Z\",\"tags\":[\"组件\",\"封装\"],\"categories\":[\"飞码篇\"],\"createTime\":\"2025/08/24 00:25:17\",\"permalink\":\"/article/ht7luzvh/\"},\"readingTime\":{\"minutes\":3.64,\"words\":1091},\"git\":{},\"filePathRelative\":\"飞码篇/组件封装.md\",\"headers\":[],\"categoryList\":[{\"id\":\"e89e1a\",\"sort\":10010,\"name\":\"飞码篇\"}]}")
+import comp from "/Users/guoguo/code/my-project/guoguo-notes-v2/docs-vuepress/.vuepress/.temp/pages/article/ht7luzvh/index.html.vue"
+const data = JSON.parse("{\"path\":\"/article/ht7luzvh/\",\"title\":\"组件封装\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"组件封装\",\"date\":\"2022-08-04T00:00:00.000Z\",\"tags\":[\"组件\",\"封装\"],\"categories\":[\"飞码篇\"],\"createTime\":\"2025/08/24 00:25:17\",\"permalink\":\"/article/ht7luzvh/\"},\"readingTime\":{\"minutes\":3.64,\"words\":1091},\"git\":{\"createdTime\":1762223206000,\"updatedTime\":1762223792000,\"contributors\":[{\"name\":\"袁果锅\",\"username\":\"\",\"email\":\"2914310412@qq.com\",\"commits\":2,\"avatar\":\"https://gravatar.com/avatar/ebb36e92893d0bad96657e83c4e1e8be47c5ebe9e1f87275acd48573e4759004?d=retro\"}]},\"filePathRelative\":\"飞码篇/组件封装.md\",\"headers\":[],\"categoryList\":[{\"id\":\"e89e1a\",\"sort\":10005,\"name\":\"飞码篇\"}]}")
 export { comp, data }
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}

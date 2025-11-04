@@ -1,16 +1,3 @@
-import comp from "/Users/guoguo/code/my-project/guoguo-notes-v2/docs/.vuepress/.temp/pages/article/mneydlo7/index.html.vue"
-const data = JSON.parse("{\"path\":\"/article/mneydlo7/\",\"title\":\"自定义组件\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"自定义组件\",\"tags\":[\"预览\",\"组件\"],\"createTime\":\"2025/08/24 00:20:06\",\"permalink\":\"/article/mneydlo7/\"},\"readingTime\":{\"minutes\":0.07,\"words\":22},\"git\":{},\"filePathRelative\":\"preview/custom-component.example.md\",\"headers\":[],\"categoryList\":[{\"id\":\"5ebeb6\",\"sort\":10005,\"name\":\"preview\"}]}")
+import comp from "/Users/guoguo/code/my-project/guoguo-notes-v2/docs-vuepress/.vuepress/.temp/pages/article/mneydlo7/index.html.vue"
+const data = JSON.parse("{\"path\":\"/article/mneydlo7/\",\"title\":\"自定义组件\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"自定义组件\",\"tags\":[\"预览\",\"组件\"],\"createTime\":\"2025/08/24 00:20:06\",\"permalink\":\"/article/mneydlo7/\"},\"readingTime\":{\"minutes\":0.07,\"words\":22},\"git\":{\"createdTime\":1755966276000,\"updatedTime\":1762223792000,\"contributors\":[{\"name\":\"袁果锅\",\"username\":\"\",\"email\":\"2914310412@qq.com\",\"commits\":2,\"avatar\":\"https://gravatar.com/avatar/ebb36e92893d0bad96657e83c4e1e8be47c5ebe9e1f87275acd48573e4759004?d=retro\"}]},\"filePathRelative\":\"preview/custom-component.example.md\",\"headers\":[],\"categoryList\":[{\"id\":\"5ebeb6\",\"sort\":10009,\"name\":\"preview\"}]}")
 export { comp, data }
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}

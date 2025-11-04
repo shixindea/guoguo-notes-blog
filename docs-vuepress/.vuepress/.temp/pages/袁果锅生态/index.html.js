@@ -1,16 +1,3 @@
-import comp from "/Users/guoguo/code/my-project/guoguo-notes-v2/docs/.vuepress/.temp/pages/袁果锅生态/index.html.vue"
-const data = JSON.parse("{\"path\":\"/%E8%A2%81%E6%9E%9C%E9%94%85%E7%94%9F%E6%80%81/\",\"title\":\"\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"readingTime\":{\"minutes\":0.07,\"words\":22},\"git\":{},\"filePathRelative\":\"袁果锅生态/README.md\",\"headers\":[],\"categoryList\":[{\"id\":\"b51fbe\",\"sort\":10009,\"name\":\"袁果锅生态\"}]}")
+import comp from "/Users/guoguo/code/my-project/guoguo-notes-v2/docs-vuepress/.vuepress/.temp/pages/袁果锅生态/index.html.vue"
+const data = JSON.parse("{\"path\":\"/%E8%A2%81%E6%9E%9C%E9%94%85%E7%94%9F%E6%80%81/\",\"title\":\"\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"readingTime\":{\"minutes\":0.07,\"words\":22},\"git\":{\"createdTime\":1762223206000,\"updatedTime\":1762223792000,\"contributors\":[{\"name\":\"袁果锅\",\"username\":\"\",\"email\":\"2914310412@qq.com\",\"commits\":2,\"avatar\":\"https://gravatar.com/avatar/ebb36e92893d0bad96657e83c4e1e8be47c5ebe9e1f87275acd48573e4759004?d=retro\"}]},\"filePathRelative\":\"袁果锅生态/README.md\",\"headers\":[],\"categoryList\":[{\"id\":\"b51fbe\",\"sort\":10006,\"name\":\"袁果锅生态\"}]}")
 export { comp, data }
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}

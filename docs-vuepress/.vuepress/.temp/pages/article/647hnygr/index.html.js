@@ -1,16 +1,3 @@
-import comp from "/Users/guoguo/code/my-project/guoguo-notes-v2/docs/.vuepress/.temp/pages/article/647hnygr/index.html.vue"
-const data = JSON.parse("{\"path\":\"/article/647hnygr/\",\"title\":\"element plus 本地启动\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"element plus 本地启动\",\"createTime\":\"2025/08/24 00:25:17\",\"permalink\":\"/article/647hnygr/\"},\"readingTime\":{\"minutes\":0.16,\"words\":47},\"git\":{},\"filePathRelative\":\"vue笔记及周边生态/element plus 本地启动.md\",\"headers\":[],\"categoryList\":[{\"id\":\"fa4ad0\",\"sort\":10006,\"name\":\"vue笔记及周边生态\"}]}")
+import comp from "/Users/guoguo/code/my-project/guoguo-notes-v2/docs-vuepress/.vuepress/.temp/pages/article/647hnygr/index.html.vue"
+const data = JSON.parse("{\"path\":\"/article/647hnygr/\",\"title\":\"element plus 本地启动\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"element plus 本地启动\",\"createTime\":\"2025/08/24 00:25:17\",\"permalink\":\"/article/647hnygr/\"},\"readingTime\":{\"minutes\":0.16,\"words\":47},\"git\":{\"createdTime\":1762223206000,\"updatedTime\":1762223792000,\"contributors\":[{\"name\":\"袁果锅\",\"username\":\"\",\"email\":\"2914310412@qq.com\",\"commits\":2,\"avatar\":\"https://gravatar.com/avatar/ebb36e92893d0bad96657e83c4e1e8be47c5ebe9e1f87275acd48573e4759004?d=retro\"}]},\"filePathRelative\":\"vue笔记及周边生态/element plus 本地启动.md\",\"headers\":[],\"categoryList\":[{\"id\":\"fa4ad0\",\"sort\":10008,\"name\":\"vue笔记及周边生态\"}]}")
 export { comp, data }
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}

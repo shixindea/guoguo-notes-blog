@@ -1,16 +1,3 @@
-import comp from "/Users/guoguo/code/my-project/guoguo-notes-v2/docs/.vuepress/.temp/pages/article/1qzbnp55/index.html.vue"
-const data = JSON.parse("{\"path\":\"/article/1qzbnp55/\",\"title\":\"接入AI\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"接入AI\",\"createTime\":\"2025/08/24 00:25:17\",\"permalink\":\"/article/1qzbnp55/\"},\"readingTime\":{\"minutes\":0.35,\"words\":105},\"git\":{},\"filePathRelative\":\"ai/接入AI.md\",\"headers\":[],\"categoryList\":[{\"id\":\"4921c0\",\"sort\":10001,\"name\":\"ai\"}]}")
+import comp from "/Users/guoguo/code/my-project/guoguo-notes-v2/docs-vuepress/.vuepress/.temp/pages/article/1qzbnp55/index.html.vue"
+const data = JSON.parse("{\"path\":\"/article/1qzbnp55/\",\"title\":\"接入AI\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"接入AI\",\"createTime\":\"2025/08/24 00:25:17\",\"permalink\":\"/article/1qzbnp55/\"},\"readingTime\":{\"minutes\":0.35,\"words\":105},\"git\":{\"createdTime\":1762223206000,\"updatedTime\":1762223792000,\"contributors\":[{\"name\":\"袁果锅\",\"username\":\"\",\"email\":\"2914310412@qq.com\",\"commits\":2,\"avatar\":\"https://gravatar.com/avatar/ebb36e92893d0bad96657e83c4e1e8be47c5ebe9e1f87275acd48573e4759004?d=retro\"}]},\"filePathRelative\":\"ai/接入AI.md\",\"headers\":[],\"categoryList\":[{\"id\":\"4921c0\",\"sort\":10011,\"name\":\"ai\"}]}")
 export { comp, data }
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}

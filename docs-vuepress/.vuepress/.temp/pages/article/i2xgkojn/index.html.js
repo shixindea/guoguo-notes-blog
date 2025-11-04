@@ -1,16 +1,3 @@
-import comp from "/Users/guoguo/code/my-project/guoguo-notes-v2/docs/.vuepress/.temp/pages/article/i2xgkojn/index.html.vue"
-const data = JSON.parse("{\"path\":\"/article/i2xgkojn/\",\"title\":\"JS常规\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"JS常规\",\"date\":\"2022-08-04T00:00:00.000Z\",\"tags\":[\"JavaScript\"],\"categories\":[\"飞码篇\"],\"createTime\":\"2025/08/24 00:25:16\",\"permalink\":\"/article/i2xgkojn/\"},\"readingTime\":{\"minutes\":1.5,\"words\":450},\"git\":{},\"filePathRelative\":\"飞码篇/js常规.md\",\"headers\":[],\"categoryList\":[{\"id\":\"e89e1a\",\"sort\":10010,\"name\":\"飞码篇\"}]}")
+import comp from "/Users/guoguo/code/my-project/guoguo-notes-v2/docs-vuepress/.vuepress/.temp/pages/article/i2xgkojn/index.html.vue"
+const data = JSON.parse("{\"path\":\"/article/i2xgkojn/\",\"title\":\"JS常规\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"JS常规\",\"date\":\"2022-08-04T00:00:00.000Z\",\"tags\":[\"JavaScript\"],\"categories\":[\"飞码篇\"],\"createTime\":\"2025/08/24 00:25:16\",\"permalink\":\"/article/i2xgkojn/\"},\"readingTime\":{\"minutes\":1.5,\"words\":450},\"git\":{\"createdTime\":1762223206000,\"updatedTime\":1762223792000,\"contributors\":[{\"name\":\"袁果锅\",\"username\":\"\",\"email\":\"2914310412@qq.com\",\"commits\":2,\"avatar\":\"https://gravatar.com/avatar/ebb36e92893d0bad96657e83c4e1e8be47c5ebe9e1f87275acd48573e4759004?d=retro\"}]},\"filePathRelative\":\"飞码篇/js常规.md\",\"headers\":[],\"categoryList\":[{\"id\":\"e89e1a\",\"sort\":10005,\"name\":\"飞码篇\"}]}")
 export { comp, data }
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}
