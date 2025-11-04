@@ -16,11 +16,11 @@
     "node": "^20.6.0 || >=22.0.0"
   },
   "scripts": {
-    "start": "vuepress dev docs",
-    "docs:dev": "vuepress dev docs",
-    "docs:dev-clean": "vuepress dev docs --clean-cache --clean-temp",
-    "docs:build": "vuepress build docs --clean-cache --clean-temp",
-    "docs:preview": "http-server docs/.vuepress/dist",
+    "start": "vuepress dev docs-vuepress",
+    "docs:dev": "vuepress dev docs-vuepress",
+    "docs:dev-clean": "vuepress dev docs-vuepress --clean-cache --clean-temp",
+    "docs:build": "vuepress build docs-vuepress --clean-cache --clean-temp",
+    "docs:preview": "http-server docs-vuepress/.vuepress/dist",
     "vp-update": "pnpm dlx vp-update"
   },
   "devDependencies": {
