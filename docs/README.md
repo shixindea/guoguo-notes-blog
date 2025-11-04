@@ -2,21 +2,20 @@
 pageLayout: home
 externalLinkIcon: false
 config:
-  -
-    type: hero
+  - type: hero
     full: true
     background: tint-plate
     hero:
-      name: Theme Plume
-      tagline: VuePress Next Theme
-      text: 一个简约的，功能丰富的 vuepress 文档&博客 主题
+      name: GuoGuo-Notes
+      tagline: 个人知识库与学习笔记
+      text: GuoGuo-Notes · 一隅知海，点滴记录我的学习与思考之旅
       actions:
-        -
-          theme: brand
+        - theme: brand
           text: 博客
           link: /blog/
-        -
-          theme: alt
+        - theme: alt
           text: Github →
-          link: https://github.com/pengzhanbo/vuepress-theme-plume
+          link: https://github.com/shixindea
 ---
+
+<!-- @format -->
